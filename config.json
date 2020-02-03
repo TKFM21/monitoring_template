@@ -1,0 +1,9 @@
+{
+  "to": [
+    "your@domain.com"
+  ],
+  "mailFrom": "support@testtest.com",
+  "bucket": "20200124-insp-result",
+  "WATCHING_DIR": "c:\\share01",
+  "DEST_DIR": "c:\\dest_share01"
+}
